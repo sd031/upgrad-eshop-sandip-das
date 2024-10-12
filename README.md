@@ -24,7 +24,7 @@ Upgrad E-Shop is an e-commerce web application built with React.js, providing a 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/upgrad-eshop.git
+   git clone https://github.com/sd031/upgrad-eshop-sandip-das.git
    cd upgrad-eshop
    ```
 2. Install dependencies:
